@@ -6,7 +6,7 @@ from typing import Final
 from telegram import Update
 from telegram.ext import Application,CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN : Final = "6344304806:AAEdzxRlq9q4AGsukJvSnw3-5i5SkFBVeCE"
+TOKEN : Final = "hidden"
 Bot_Username :Final="@taptapdatabasebot"
 
 
