@@ -6,7 +6,7 @@ import google.generativeai as genai
 from googleapiclient.discovery import build
 from google.oauth2.service_account import Credentials
 
-API_KEY='AIzaSyBagutCVmzinNYXn_JiQYumvSbE7QB-27c'
+API_KEY='hidden'
 
 genai.configure(
     api_key=API_KEY
