@@ -1,6 +1,6 @@
 import google.generativeai as genai 
 
-API_KEY='AIzaSyBagutCVmzinNYXn_JiQYumvSbE7QB-27c'
+API_KEY='hidden'
 
 
 genai.configure(
