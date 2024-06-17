@@ -13,7 +13,7 @@ def get_service():
 
 service=get_service()
 # Spreadsheet ID and sheet name
-spreadsheet_id = '1KEJD7kloAX-n7zn-D1x7Cew3VmxwtyloQbNkRri2mEQ'
+spreadsheet_id = 'hidden'
 sheet_name = 'courseSubjects'  # Adjust if your data is in a different sheet
 
 # Option 2: Get data from a specific range
